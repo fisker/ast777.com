@@ -35,7 +35,7 @@
     "@iconify-json/vscode-icons": "^1.2.29",
     "@nuxt/kit": "^3.18.1",
     "@swc/wasm-web": "1.13.3",
-    "@sxzz/eslint-config": "^6.2.0",
+    "@sxzz/eslint-config": "^7.1.2",
     "@sxzz/prettier-config": "^2.2.3",
     "@types/css-tree": "^2.3.10",
     "@types/espree": "^10.1.0",
