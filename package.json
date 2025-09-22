@@ -17,7 +17,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@angular/compiler": "^19.2.15",
+    "@angular/compiler": "^20.3.1",
     "@shikijs/monaco": "^3.12.2",
     "@typescript-eslint/parser": "^8.44.0",
     "@vueuse/core": "^13.9.0",
