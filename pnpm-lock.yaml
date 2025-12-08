@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@angular/compiler':
-        specifier: ^20.3.15
-        version: 20.3.15
+        specifier: ^21.0.3
+        version: 21.0.3
       '@shikijs/monaco':
         specifier: ^3.19.0
         version: 3.19.0
@@ -205,8 +205,8 @@ packages:
     resolution: {integrity: sha512-30iZtAPgz+LTIYoeivqYo853f02jBYSd5uGnGpkFV0M3xOt9aN73erkgYAmZU43x4VfqcnLxW9Kpg3R5LC4YYw==}
     engines: {node: '>=6.0.0'}
 
-  '@angular/compiler@20.3.15':
-    resolution: {integrity: sha512-lMicIAFAKZXa+BCZWs3soTjNQPZZXrF/WMVDinm8dQcggNarnDj4UmXgKSyXkkyqK5SLfnLsXVzrX6ndVT6z7A==}
+  '@angular/compiler@21.0.3':
+    resolution: {integrity: sha512-s9IN4Won1lTmO2vUIIMc4zZHQ2A68pYr/BiieM6frYBhRAwtdyqZW0C5TTeRlFhHe+jMlOdbaJwF8OJrFT7drQ==}
     engines: {node: ^20.19.0 || ^22.12.0 || >=24.0.0}
 
   '@antfu/install-pkg@1.1.0':
@@ -5972,7 +5972,7 @@ snapshots:
       '@jridgewell/gen-mapping': 0.3.13
       '@jridgewell/trace-mapping': 0.3.30
 
-  '@angular/compiler@20.3.15':
+  '@angular/compiler@21.0.3':
     dependencies:
       tslib: 2.8.1
 
