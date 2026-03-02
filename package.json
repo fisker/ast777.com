@@ -57,7 +57,7 @@
     "flow-parser": "^0.302.0",
     "htmlparser2": "^10.1.0",
     "jinx-rust": "^0.1.6",
-    "jsonc-eslint-parser": "^2.4.2",
+    "jsonc-eslint-parser": "^3.1.0",
     "lightningcss-wasm": "^1.31.1",
     "meriyah": "^7.1.0",
     "nuxt": "^4.3.1",
