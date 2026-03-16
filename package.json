@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@angular/compiler": "^21.2.4",
-    "@shikijs/monaco": "^3.23.0",
+    "@shikijs/monaco": "^4.0.2",
     "@typescript-eslint/parser": "^8.57.0",
     "@vueuse/core": "^14.2.1",
     "ansi-regex": "^6.2.2",
@@ -26,7 +26,7 @@
     "json-to-ast": "^2.1.0",
     "json5": "^2.2.3",
     "monaco-editor": "^0.55.1",
-    "shiki": "^3.23.0"
+    "shiki": "^4.0.2"
   },
   "devDependencies": {
     "@babel/parser": "^7.29.0",
