@@ -75,7 +75,7 @@
     "sql-parser-cst": "^0.38.2",
     "svelte": "^5.55.1",
     "tsx": "^4.21.0",
-    "typescript": "~5.9.3",
+    "typescript": "~6.0.2",
     "unenv": "^2.0.0-rc.24",
     "unocss": "^66.6.7",
     "unplugin-replace": "^0.8.0",
